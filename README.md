@@ -53,7 +53,7 @@ The recorded validation results include:
 
 The four date-sequence exceptions were identified and recorded as validation findings.
 
-**Testing Note:** The supplied SQL script references additional tables in its negative testing section that are not created within the script. The Excel workbook contains the test cases and recorded results for both testing cycles.
+**Testing Note:** The SQL script expects an existing `source` table to be imported before execution. Some negative test queries also reference additional tables that are not created within the script. The Excel workbook documents the test cases and recorded results for both testing cycles.
 
 ## Tech Stack
 
