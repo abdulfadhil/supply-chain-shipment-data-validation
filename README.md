@@ -1,4 +1,4 @@
-﻿# Supply Chain Shipment Data Validation
+# Supply Chain Shipment Data Validation
 
 This project was completed during my internship at Cognizant from January to April 2026, in the Artificial Intelligence and Analytics (AIA) domain, as part of the ETL Testing work.
 
@@ -62,6 +62,7 @@ The four date-sequence exceptions were identified and recorded as validation fin
 
 ## Project Structure
 
+```text
 Supply Chain Shipment Data Validation/
 │
 ├── .gitignore
@@ -69,6 +70,7 @@ Supply Chain Shipment Data Validation/
 ├── README.md
 ├── Shipment Data Transformation and Validation.sql
 └── Shipment Data Analysis and Test Results.xlsx
+```
 
 ## License
 
